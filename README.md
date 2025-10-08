@@ -1,2 +1,0 @@
-# splitzy
-Splitzy privacy policy 
