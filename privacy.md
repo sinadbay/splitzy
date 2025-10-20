@@ -11,10 +11,8 @@ At Splitzy, your privacy is simple: **we don’t collect anything.**
     
 -   We don’t use your trip or expense data for any purpose.
     
--   Everything stays on your device.
-    
 
-That’s it. The app is built to give you a free and convenient experience, with no ads, no tracking, and no data collection.
+That’s it. The app is designed to give you a free, seamless experience — with no ads, no tracking, and no collection of interaction data for analysis or targeted advertising.
 
 If you have any questions, you can always reach me at:  
 **Email:** splitzy@dbay.dev
